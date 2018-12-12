@@ -3,6 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
+            	//commento 
                 bat 'echo "Hello world!"'                
             }
         }
