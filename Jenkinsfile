@@ -7,7 +7,7 @@ pipeline {
                 bat 'echo "Hello world!"'           
                 //aggiunto dalla seconda copia del progetto     
                 //commento aggiunto da progetto 16:33
-                //commento modificato da progetto 2 17:00
+                //commento modificato da progetto 1 17:01
             }
         }
     }
